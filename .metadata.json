@@ -1,5 +1,9 @@
 [
   {
+    "package": "diffeR",
+    "oncran": true
+  },
+  {
     "package": "TOC",
     "oncran": true
   }
