@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "diffeR"]
-	path = diffeR
-	url = https://github.com/amsantac/differ
 [submodule "TOC"]
 	path = TOC
 	url = https://github.com/amsantac/toc
+[submodule "diffeR"]
+	path = diffeR
+	url = https://github.com/amsantac/differ
