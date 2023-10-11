@@ -8,3 +8,6 @@
 [submodule "diffeR"]
 	path = diffeR
 	url = https://github.com/amsantac/differ
+[submodule "geospt"]
+	path = geospt
+	url = https://github.com/amsantac/geospt
